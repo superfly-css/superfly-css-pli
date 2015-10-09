@@ -18,7 +18,7 @@ The following directories are modeled by the PLI:
 | src/test/html    | Html pages for loading the unit tests                     |
 | target/main/css  | Built CSS modules                                         |
 | target/main/js   | Built javascript                                          |
-| target/main/html | Built of dynamic demo html pages                          |
+| target/main/html | Built dynamic demo html pages                             |
 | target/test/css  | Built test CSS                                            |
 | target/test/js   | Built test Javascript                                     |
 | target/test/html | Built test html                                           |
