@@ -11,7 +11,7 @@ The following directories are modeled by the PLI:
 | Directory        | Summary                                                   |
 |:-----------------|:----------------------------------------------------------|
 | src/main/css     | Entry level CSS module(s) are contained in this directory |
-| src/main/js      | Javascript utlities that support dynamic demoes           |
+| src/main/js      | Javascript that support dynamic demoes                    |
 | src/main/html    | Dynamic demonstrations                                    |
 | src/test/css     | CSS visual unit tests                                     |
 | src/test/js      | Javascript supporting CSS unit tests                      |
