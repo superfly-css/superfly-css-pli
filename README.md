@@ -4,7 +4,7 @@ The PLI (Project Layout Instance) is a javascript object model of the standard d
 
 The PLI is inspired by the [Apache Maven Standard Directory Layout](https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html).
 
-# Directory Descriptions
+## Directory Descriptions
 
 The following directories are modeled by the PLI:
 
