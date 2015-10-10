@@ -1,6 +1,4 @@
-module.exports = PLI;
-
-var PLI = {
+module.exports = PLI = {
   SOURCE: './src/',
   TARGET: './target/',
   src: {
