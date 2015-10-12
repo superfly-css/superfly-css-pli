@@ -6,7 +6,9 @@ The PLI is inspired by the [Apache Maven Standard Directory Layout](https://mave
 
 ## Directory Descriptions
 
-The following directories are modeled by the PLI:
+The following directories are modeled by the PLI.
+
+### Source Directories
 
 | Directory        | Summary                                                   |
 |:-----------------|:----------------------------------------------------------|
@@ -16,6 +18,9 @@ The following directories are modeled by the PLI:
 | src/test/css     | CSS visual unit tests                                     |
 | src/test/js      | Javascript supporting CSS unit tests                      |
 | src/test/html    | Html pages for loading the unit tests                     |
+
+### Target Directories
+
 | target/main/css  | Built CSS modules                                         |
 | target/main/js   | Built javascript                                          |
 | target/main/html | Built dynamic demo html pages                             |
