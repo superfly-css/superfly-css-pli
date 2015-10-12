@@ -21,6 +21,8 @@ The following directories are modeled by the PLI.
 
 ### Target Directories
 
+| Directory        | Summary                                                   |
+|:-----------------|:----------------------------------------------------------|
 | target/main/css  | Built CSS modules                                         |
 | target/main/js   | Built javascript                                          |
 | target/main/html | Built dynamic demo html pages                             |
@@ -28,7 +30,9 @@ The following directories are modeled by the PLI.
 | target/test/js   | Built test Javascript                                     |
 | target/test/html | Built test html                                           |
 
-More directories can easily be added, and will naturally fit with the build methodology.  Examples:
+## Extension
+
+More directories can easily be added, and will naturally fit with the build methodology.  For example:
 
 | Directory            | Summary        |
 |:---------------------|:---------------|
