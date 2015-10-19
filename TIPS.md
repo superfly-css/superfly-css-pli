@@ -11,5 +11,5 @@ var PLI = require('superfly-css-pli');
 
 var cssEntryFiles = path.join(PLI.src.main.css, GLOB.ALL_CSS);
 console.log(PLI.src.main.css);
-//Logs `./src/main/css`
+//Logs `./src/main/css/**/*.css`
 ```
