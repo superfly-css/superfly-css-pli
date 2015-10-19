@@ -1,6 +1,6 @@
 {
   "name": "superfly-css-pli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Standard directory layout for all SuperflyCSS modules",
   "main": "index.js",
   "files": ["index.js"],
