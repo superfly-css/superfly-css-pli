@@ -32,7 +32,7 @@ The following directories are modeled by the PLI.
 | target/test/css      | Built test CSS utilities           |
 | target/test/js       | Built test Javascript              |
 | target/test/html     | Built test html                    |
-| src/test/nunjucks    | Built Nunjucks Template unit tests |
+| target/test/nunjucks | Built Nunjucks Template unit tests |
 
 ## Extension
 
