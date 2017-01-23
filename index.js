@@ -8,24 +8,28 @@ var PLI = {
     main: {
       js: './src/main/js/',
       css: './src/main/css/',
-      html: './src/main/html/'
+      html: './src/main/html/',
+      nunjucks: './src/main/nunjucks'
     },
     test: {
       js: './src/test/js/',
       css: './src/test/css/',
-      html: './src/test/html/'
+      html: './src/test/html/',
+      nunjucks: './src/test/nunjucks'
     }
   },
   target: {
     main: {
       js: './target/main/js/',
       css: './target/main/css/',
-      html: './target/main/html/'
+      html: './target/main/html/',
+      nunjucks: './target/main/nunjucks'
     },
     test: {
       js: './target/test/js/',
       css: './target/test/css/',
-      html: './target/test/html/'
+      html: './target/test/html/',
+      nunjucks: './target/test/nunjucks'
     }
   }
 }

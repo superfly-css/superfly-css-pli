@@ -10,25 +10,29 @@ The following directories are modeled by the PLI.
 
 ### Source Directories
 
-| Directory        | Summary                                                   |
-|:-----------------|:----------------------------------------------------------|
-| src/main/css     | Entry level CSS module(s) are contained in this directory |
-| src/main/js      | Javascript supporting dynamic demoes                      |
-| src/main/html    | Dynamic demonstrations                                    |
-| src/test/css     | CSS test utilities                                        |
-| src/test/js      | Javascript supporting CSS unit tests                      |
-| src/test/html    | Html pages for loading the unit tests                     |
+| Directory         | Summary                                                   |
+|:------------------|:----------------------------------------------------------|
+| src/main/css      | Entry level CSS module(s) are contained in this directory |
+| src/main/js       | Javascript supporting dynamic demoes                      |
+| src/main/html     | Dynamic demonstrations                                    |
+| src/main/nunjucks | Nunjucks Templates                                        |
+| src/test/css      | CSS test utilities                                        |
+| src/test/js       | Javascript supporting CSS unit tests                      |
+| src/test/html     | Html pages for loading the unit tests                     |
+| src/test/nunjucks | Nunjucks Template unit tests                              |
 
 ### Target Directories
 
-| Directory        | Summary                                                   |
-|:-----------------|:----------------------------------------------------------|
-| target/main/css  | Built CSS modules                                         |
-| target/main/js   | Built javascript                                          |
-| target/main/html | Built dynamic demo html pages                             |
-| target/test/css  | Built test CSS utilities                                  |
-| target/test/js   | Built test Javascript                                     |
-| target/test/html | Built test html                                           |
+| Directory            | Summary                            |
+|:---------------------|:-----------------------------------|
+| target/main/css      | Built CSS modules                  |
+| target/main/js       | Built javascript                   |
+| target/main/html     | Built dynamic demo html pages      |
+| target/main/nunjucks | Precompiled Nunjucks Templates     |
+| target/test/css      | Built test CSS utilities           |
+| target/test/js       | Built test Javascript              |
+| target/test/html     | Built test html                    |
+| src/test/nunjucks    | Built Nunjucks Template unit tests |
 
 ## Extension
 
