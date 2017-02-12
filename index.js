@@ -43,4 +43,11 @@ PLI.SRC_TEST_CSS = path.join(PLI.src.test.css, GLOB.ALL_CSS);
 PLI.SRC_TEST_HTML = path.join(PLI.src.test.html, GLOB.ALL_HTML);
 PLI.SRC_TEST_JS = path.join(PLI.src.test.html, GLOB.ALL_JS);
 
+PLI.TARGET_MAIN_CSS = path.join(PLI.target.main.css, GLOB.ALL_CSS);
+PLI.TARGET_MAIN_HTML = path.join(PLI.target.main.html, GLOB.ALL_HTML);
+PLI.TARGET_MAIN_JS = path.join(PLI.target.main.html, GLOB.ALL_JS);
+PLI.TARGET_TEST_CSS = path.join(PLI.target.test.css, GLOB.ALL_CSS);
+PLI.TARGET_TEST_HTML = path.join(PLI.target.test.html, GLOB.ALL_HTML);
+PLI.TARGET_TEST_JS = path.join(PLI.target.test.html, GLOB.ALL_JS);
+
 module.exports = PLI;
