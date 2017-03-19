@@ -34,6 +34,21 @@ The following directories are modeled by the PLI.
 | target/test/html     | Built test html                    |
 | target/test/nunjucks | Built Nunjucks Template unit tests |
 
+### Deploy Directories
+
+Resources that are contained in the `deploy` directory are intended to be served by `gh-pages` for all superfly-css repositories.  Resources placed in these directories are optimized by [superfly-css-task-deploy](https://github.com/superfly-css/superfly-css-task-deploy).
+
+| Directory            | Summary                                 |
+|:---------------------|:----------------------------------------|
+| deploy/main/css      | Deployable CSS modules                  |
+| deploy/main/js       | Deployable javascript                   |
+| deploy/main/html     | Deployable dynamic demo html pages      |
+| deploy/main/nunjucks | Deployable Nunjucks Templates           |
+| deploy/test/css      | Deployable test CSS utilities           |
+| deploy/test/js       | Deployable test Javascript              |
+| deploy/test/html     | Deployable test html                    |
+| deploy/test/nunjucks | Deployable Nunjucks Template unit tests |
+
 ## Extension
 
 More directories can easily be added, and will naturally fit with the build methodology.  For example:
